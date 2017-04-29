@@ -1,0 +1,23 @@
+{
+  "name": "reactor",
+  "version": "1.0.0",
+  "description": "Advanced Sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephantoney/reactor.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "Joseph Antoney Moyesan Thomas Kingslin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephantoney/reactor/issues"
+  },
+  "homepage": "https://github.com/josephantoney/reactor#readme"
+}
